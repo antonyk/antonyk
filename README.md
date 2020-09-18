@@ -40,17 +40,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## 📚 Tech Stack
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=black)
-![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=black)
+![](https://img.shields.io/badge/code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=css3&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-React-informational?style=flat&logo=react&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-Node-informational?style=flat&logo=node.js&logoColor=white&color=black)
-
 ![](https://img.shields.io/badge/code-SASS-informational?style=flat&logo=sass&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-Jest-informational?style=flat&logo=jest&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=black)

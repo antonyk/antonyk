@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 
-
 I like to make things.
 
 I use software and technology.
 
 - 🌱 I’m currently learning GraphQL
 
-- 📫 You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akoharian/)](https://www.linkedin.com/in/akoharian/)
+- 💬 Thinking about and looking to collaborate on consciousness, AI and human-machine symbiosis.
+
+- ⚡ Some of my skills are JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS 
+
+- 📫 I can be reached on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akoharian/)](https://www.linkedin.com/in/akoharian/)
 
 
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <!--
-**acarrillo3/acarrillo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

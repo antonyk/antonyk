@@ -11,9 +11,6 @@ I use software and technology.
 
 - ⚡ Some of my skills are JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS 
 
-- 📫 I can be reached on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akoharian/)](https://www.linkedin.com/in/akoharian/)
-
-
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
 
 
@@ -29,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 I can be reached on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username/)](https://www.linkedin.com/in/username/)
 
 | col1 | col2 |
 | ---  |  --- |

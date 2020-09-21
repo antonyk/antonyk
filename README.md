@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+| --- | --- |
 ## 📚 Tech Stack
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=black)
 
 <!-- Add shields to your GitHub [here](https://shields.io/) -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyk&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/antonyk/github-readme-stats)
 [![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=antonyk&show_icons=true&theme=vision-friendly-dark)](https://github.com/antonyk/github-readme-stats)
-
+-->
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
 

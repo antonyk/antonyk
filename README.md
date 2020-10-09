@@ -7,9 +7,9 @@ I use software and technology.
 
 - 🌱 I’m currently learning GraphQL
 
-- 💬 Thinking about and looking to collaborate on consciousness, AI and human-machine symbiosis.
+- 💬 Interested in AGI, simulated consciousness and human-machine symbiosis.
 
-- ⚡ Some of my skills are JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS 
+- ⚡ Some of my skills are JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
 
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
 

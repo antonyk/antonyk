@@ -5,7 +5,7 @@ I like to make things using software and technology.
 
 - 💬 Interested in AGI, simulated consciousness and human-machine symbiosis.
 
-- ⚡ My skills include JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
+- ⚡ My skills include JavaScript, React, Next.js, Python, C#, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
 
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
 

@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 
-I like to make things.
-
-I use software and technology.
-
-- 🌱 I’m currently learning GraphQL
+I like to make things using software and technology.
 
 - 💬 Interested in AGI, simulated consciousness and human-machine symbiosis.
 
-- ⚡ Some of my skills are JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
+- ⚡ My skills include JavaScript, Python, C#, React, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
 
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
 
@@ -34,6 +30,7 @@ Here are some ideas to get you started:
 
 -->
 
+<!--
 ## 📚 Tech Stack
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=black)
@@ -51,6 +48,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/code-Redux-informational?style=flat&logo=redux&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-Knex-informational?style=flat&logo=Knex.js&logoColor=white&color=black)
 ![](https://img.shields.io/badge/code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=black)
+-->
 
 <!-- Add shields to your GitHub [here](https://shields.io/) -->
 <!--

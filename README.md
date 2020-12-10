@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-I like to make things using software and technology.
-
-- 💬 Interested in AGI, simulated consciousness and human-machine symbiosis.
+- 💬 I like to make things using software and solve hard problems.
 
 - ⚡ My skills include JavaScript, React, Next.js, Python, C#, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
 
@@ -13,6 +11,8 @@ I like to make things using software and technology.
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+
+- 💬 Interested in AGI, simulated consciousness and human-machine symbiosis.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

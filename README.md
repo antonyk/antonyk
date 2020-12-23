@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 I like to make things using software and solve hard problems.
+- 💬 I like to solve hard problems and make things using software.
 
 - ⚡ My skills include JavaScript, React, Next.js, Python, C#, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
 

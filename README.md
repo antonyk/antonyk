@@ -3,7 +3,7 @@
 
 - 💬 I like to solve hard problems and make things using software.
 
-- ⚡ My skills include JavaScript, React, Next.js, Python, C#, Node, Knex, ASP.Net, SQL, REST, GraphQL, Azure, AWS
+- ⚡ My skills include JavaScript, React, Next.js, Python, C#, Node, Knex, ASP.Net, SQL, MongoDB, REST, GraphQL, Azure, AWS
 
 ![](https://komarev.com/ghpvc/?username=antonyk&color=blue)
 
